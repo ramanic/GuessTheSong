@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+.App {
+  margin: 1rem;
+}
+body {
+  background: #121212;
+}
+
+.title h2 {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
+  color: honeydew;
+}
+.title-second {
+  text-align: center;
+  margin: 2rem;
+  color: #1e88e5;
+}
+.title-second button {
+  margin-left: 0.5rem;
+}
